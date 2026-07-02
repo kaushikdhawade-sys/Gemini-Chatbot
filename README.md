@@ -67,4 +67,4 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 ## Contact
 
--   Kaushik Dhawade- [kaushikdhawade@gmail.com](mailto:kalyanmurapaka274@gmail.com)
+-   Kaushik Dhawade- [kaushikdhawade@gmail.com]
